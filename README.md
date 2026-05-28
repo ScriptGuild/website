@@ -1,2 +1,0 @@
-# Website
-ScriptGuild Static Website
